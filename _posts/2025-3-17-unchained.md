@@ -3,7 +3,7 @@ layout: post
 title:  "Unchained"
 summary: "AI Programmer"
 date:   2025-03-17
-preview: /assets/postpreview.png
+preview: /assets/unchained-preview.png
 ---
 
 ![Picture 1](/assets/unchained.jpg)
