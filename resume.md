@@ -6,4 +6,4 @@ permalink: /resume/
 
 Here's my resume:
 
-<object data="/assets/resume.pdf" width="100%" height="600"></object>
+<object data="https://zachtier.github.io/ZacharyTieu.github.io/assets/resume.pdf" type="application/pdf" width="100%" height="600"></object>
