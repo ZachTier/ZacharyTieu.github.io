@@ -5,7 +5,7 @@ description: > # keep this and put description below
   Technical Designer and Programmer
 url: "https://zacharytieu.github.io" # the base hostname & protocol for your site
 linkedin_url: "www.linkedin.com/in/ztieu"
-github_username: gamingportfolio
+github_username: ZachTier
 
 # Build settings
 markdown: kramdown
