@@ -3,9 +3,6 @@ layout: page
 title: "About Me"
 permalink: /about/
 ---
-
-![Picture 1](/assets/fullsize.png)
-
 Hello, I'm Zachary Tieu, Technical Designer and Programmer, graduating from USC this year! I'm passionate about designing and implementing mechanics that make the stories within and born from games sing.
 
   Favorite Game Genre: Turn-Based Strategy.\
