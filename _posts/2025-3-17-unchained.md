@@ -2,7 +2,6 @@
 layout: post
 title:  "Unchained"
 summary: "AI Programmer"
-date:   2025-03-17
 preview: tree/master/assets/unchained-preview.png
 ---
 
