@@ -2,7 +2,7 @@
 layout: post
 title:  "Unchained"
 summary: "AI Programmer"
-preview: assets/unchained-preview.jpg
+preview: /assets/unchained-preview.jpg
 ---
 
 ![Picture 1](/assets/unchained.jpg)
