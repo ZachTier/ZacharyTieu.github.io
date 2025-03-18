@@ -6,7 +6,8 @@ preview: tree/master/assets/unchained-preview.png
 ---
 
 ![Picture 1](/assets/unchained.jpg)
-\https://www.unchained-game.com
+
+https://www.unchained-game.com
 
 What it is:\
 A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently in development in collaboration with other students from the University of Southern California, Otis College of Art and Design, and Berklee College of Music!
