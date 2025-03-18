@@ -2,7 +2,7 @@
 layout: post
 title:  "Unchained"
 summary: "AI Programmer"
-preview: (https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained-preview.jpg)
+preview: https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained-preview.jpg
 ---
 
 ![Picture 1](https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained.jpg)
