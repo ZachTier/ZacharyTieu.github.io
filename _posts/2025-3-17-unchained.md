@@ -7,7 +7,7 @@ preview: tree/master/assets/unchained-preview.png
 
 ![Picture 1](/assets/unchained.jpg)
 
-Website: https://www.unchained-game.com
+Website: [https://www.unchained-game.com](https://www.unchained-game.com)
 
 
 What it is:\
