@@ -5,7 +5,7 @@ summary: "AI Programmer"
 preview: (https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained-preview.jpg)
 ---
 
-![Picture 1](https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained.jpg))
+![Picture 1](https://github.com/ZachTier/ZacharyTieu.github.io/blob/master/assets/unchained.jpg)
 
 Website: [https://www.unchained-game.com](https://www.unchained-game.com)
 
