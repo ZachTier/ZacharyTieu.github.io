@@ -5,7 +5,7 @@ summary: "AI Programmer"
 preview: assets/unchained-preview.jpg
 ---
 
-![Picture 1](assets/unchained.jpg)
+![Picture 1](/assets/unchained.jpg)
 
 Website: [https://www.unchained-game.com](https://www.unchained-game.com)
 
