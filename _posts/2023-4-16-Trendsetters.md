@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Unchained"
-summary: "AI Programmer"
+title:  "Trendsetters"
+summary: "Playtest Lead/Gameplay Designer"
 preview: assets/unchained-preview.jpg
 ---
 
