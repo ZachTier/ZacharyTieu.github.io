@@ -14,3 +14,6 @@ My Responsibilities:
 * Played a central role in the team’s rapid prototyping and agile design workflow, helping maintain momentum through frequent rule refinements, content testing, and mechanic iteration. Fostered strong team collaboration by keeping feedback cycles tight, communication clear, and player experience at the core of every design decision.
 * Also contributed heavily to iterating on the game's player instructions and onboarding materials, improving usability, clarity, and visual structure to reduce confusion during first-time play. This involved rewriting unclear language, reorganizing rule flow, and incorporating player feedback to ensure the rulebook supported quick understanding and smooth gameplay.
 
+![Example Playtest Notes](https://zachtier.github.io/ZacharyTieu.github.io/assets/TrendsetterTest.png)
+
+![Example Playtest Notes 2](https://zachtier.github.io/ZacharyTieu.github.io/assets/TrendsetterTest2.png)
