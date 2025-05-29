@@ -11,7 +11,6 @@ A hotseat style party game. In today's world, engagement is everything, so make 
 
 What I did:
 * Led the game's playtesting strategy and execution, organizing structured sessions across diverse player groups to gather actionable insights on clarity, balance, and engagement. Synthesized qualitative and quantitative feedback into clear design recommendations, directly informing changes that improved game flow, readability, and player retention.
-* Collaborated closely with the design and engineering teams to support rapid prototyping and agile iteration, ensuring that playtest findings translated quickly into meaningful gameplay adjustments. Maintained strong cross-discipline communication and team cohesion, helping keep development focused, flexible, and player-driven.
+* Played a central role in the team’s rapid prototyping and agile design workflow, helping maintain momentum through frequent rule refinements, content testing, and mechanic iteration. Fostered strong team collaboration by keeping feedback cycles tight, communication clear, and player experience at the core of every design decision.
+* Also contributed heavily to iterating on the game's player instructions and onboarding materials, improving usability, clarity, and visual structure to reduce confusion during first-time play. This involved rewriting unclear language, reorganizing rule flow, and incorporating player feedback to ensure the rulebook supported quick understanding and smooth gameplay.
 
-What I learnt:\
-Developing games in larger teams with a larger timeframe is a very different scale compared to tackling challenges in smaller teams. Communication is always key, but co-ordinating to avoid blockers, keeping track of where you stand in the development pipeline, and knowing where to find things and how to communicate problems and solutions are skills that can't be practiced without these big team projects.
