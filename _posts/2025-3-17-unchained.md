@@ -8,10 +8,10 @@ preview: assets/unchained-preview.jpg
 ![Picture 1](https://zachtier.github.io/ZacharyTieu.github.io/assets/unchained.jpg)
 
 Website: [https://www.unchained-game.com](https://www.unchained-game.com)
-
+Steam Link: [Unchained: Tale of Enra](https://store.steampowered.com/app/3723210/Unchained_Tale_of_Enra/)
 
 What it is:\
-A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently in development in collaboration with other students from the University of Southern California, Otis College of Art and Design, and Berklee College of Music!
+A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently wrapping up post-prouction: the meat of the game is in place, fully developed and properly polished, with just a few tweaks needed before the grand release in July of 2025!
 
 What I did:
 * As the team's AI programmer, lead the implementation of 10+ enemy types. This involved co-ordinating with the design team to review AI cycles and abilities for practicality and playability, before working with the team's other engineers to implement AI's that worked without our navigation system and character system.  The biggest challenge here was figuring out pathfinding in lieu of having a standard srpg grid, with the end result being enemies that use a mixture of navmesh navigation, raycasting, and general heuristics based on ally/enemy location to move and attack.
