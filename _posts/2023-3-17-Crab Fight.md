@@ -8,7 +8,7 @@ Website: [Crab Fight on Itch!](https://zachtier.itch.io/crab-fight)
 
 
 What it is:\
-A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently in development in collaboration with other students from the University of Southern California, Otis College of Art and Design, and Berklee College of Music!
+A competitive tabletop strategy game, focused around mitigating risk and RNG, positioning your units, and asserting board control on a constantly shrinking map. Take control of your crabs and duke it out for the crustacean crown in the tide pool!
 
 What I did:
 * As the team's AI programmer, lead the implementation of 10+ enemy types. This involved co-ordinating with the design team to review AI cycles and abilities for practicality and playability, before working with the team's other engineers to implement AI's that worked without our navigation system and character system.  The biggest challenge here was figuring out pathfinding in lieu of having a standard srpg grid, with the end result being enemies that use a mixture of navmesh navigation, raycasting, and general heuristics based on ally/enemy location to move and attack.
