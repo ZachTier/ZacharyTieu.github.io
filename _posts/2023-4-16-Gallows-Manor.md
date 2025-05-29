@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Unchained"
-summary: "AI Programmer"
-preview: assets/unchained-preview.jpg
+title:  "Gallows Manor"
+summary: "Lead Programmer and Designer"
+preview: assets/GallowsManor.jpg
 ---
 
-![Picture 1](https://zachtier.github.io/ZacharyTieu.github.io/assets/unchained.jpg)
+![Trailer](https://drive.google.com/file/d/1eozyopxpCxKRde7yH901UAv5zFraTnCk/view?usp=sharing)
 
-Website: [https://www.unchained-game.com](https://www.unchained-game.com)
-Steam Link: [Unchained: Tale of Enra](https://store.steampowered.com/app/3723210/Unchained_Tale_of_Enra/)
+Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
 
 What it is:\
 A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently wrapping up post-prouction: the meat of the game is in place, fully developed and properly polished, with just a few tweaks needed before the grand release in July of 2025!
