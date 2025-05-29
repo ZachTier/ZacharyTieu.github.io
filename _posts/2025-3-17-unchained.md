@@ -7,7 +7,7 @@ preview: assets/unchained-preview.jpg
 
 ![Picture 1](https://zachtier.github.io/ZacharyTieu.github.io/assets/unchained.jpg)
 
-Website: [https://www.unchained-game.com](https://www.unchained-game.com)
+Website: [https://www.unchained-game.com](https://www.unchained-game.com)\
 Steam Link: [Unchained: Tale of Enra](https://store.steampowered.com/app/3723210/Unchained_Tale_of_Enra/)
 
 What it is:\
