@@ -2,7 +2,7 @@
 layout: post
 title:  "Trendsetters"
 summary: "Playtest Lead/Gameplay Designer"
-preview: assets/Trendsetters.jpg
+preview: assets/Trendsetters.png
 ---
 Itch Page: Trendsetters Rules(https://zachtier.itch.io/trendsetters)
 
