@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Unchained"
-summary: "AI Programmer"
-preview: assets/unchained-preview.jpg
+title:  "Crab Fight"
+summary: "Gameplay Lead"
+preview: assets/crab-fight.jpg
 ---
-
-![Picture 1](https://zachtier.github.io/ZacharyTieu.github.io/assets/unchained.jpg)
-
-Website: [https://www.unchained-game.com](https://www.unchained-game.com)
+Website: [Crab Fight on Itch!](https://zachtier.itch.io/crab-fight)
 
 
 What it is:\
