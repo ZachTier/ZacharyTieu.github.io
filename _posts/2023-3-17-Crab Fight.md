@@ -4,16 +4,13 @@ title:  "Crab Fight"
 summary: "Gameplay Lead"
 preview: assets/crab-fight.jpg
 ---
-Website: [Crab Fight on Itch!](https://zachtier.itch.io/crab-fight)
+Website: [Download the Rules Here!](https://zachtier.itch.io/crab-fight)
 
 
 What it is:\
 A competitive tabletop strategy game, focused around mitigating risk and RNG, positioning your units, and asserting board control on a constantly shrinking map. Take control of your crabs and duke it out for the crustacean crown in the tide pool!
 
-What I did:
-* As the team's AI programmer, lead the implementation of 10+ enemy types. This involved co-ordinating with the design team to review AI cycles and abilities for practicality and playability, before working with the team's other engineers to implement AI's that worked without our navigation system and character system.  The biggest challenge here was figuring out pathfinding in lieu of having a standard srpg grid, with the end result being enemies that use a mixture of navmesh navigation, raycasting, and general heuristics based on ally/enemy location to move and attack.
-* Implemented abilities for the above enemy type, ranging from AOE fireblasts to dashes. Primarily, this task involved co-ordinating with the lead engineer to figure out how in our combat system the abilities we desired could be efficiently implemented, and subsequently evaluating my own code on what'd the most practical way to implement said solutions into the game, taking into account potential changes to our game's UI and visual/audio feedback features and potential scalability.
-* Co-ordinated with a team of other designers and programmers to test, debug, and perfect the AI for our game. The standard: playtesting in a variety of scenes both on my own and alongside other developers in order to identify and tackle bugs and iterate through balance challenges.
-
-What I learnt:\
-Developing games in larger teams with a larger timeframe is a very different scale compared to tackling challenges in smaller teams. Communication is always key, but co-ordinating to avoid blockers, keeping track of where you stand in the development pipeline, and knowing where to find things and how to communicate problems and solutions are skills that can't be practiced without these big team projects.
+My Responsibilities:
+* Led the design of a fast-paced, competitive board game centered on player interaction, strategic chaos, and crab-themed combat, blending tactical depth with lighthearted, humorous gameplay. Developed the game's core mechanics, emphasizing clever counterplay, timing, and player-driven escalation.
+* Conducted extensive balance and playtesting across multiple iterations, using both observation and structured feedback to refine game pacing, increase player agency, and ensure each match remained dynamic and fair. Adjusted abilities, card effects, and turn structure to promote replayability and strategic variety.
+* Managed clear, accessible documentation of rules, mechanics, and design rationale for both teammates and playtesters. Delivered polished presentations and refined rulebooks that made the game easy to learn, fun to teach, and rewarding to master.
