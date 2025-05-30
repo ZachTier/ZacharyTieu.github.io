@@ -4,9 +4,7 @@ title:  "Gallows Manor"
 summary: "Lead Programmer and Designer"
 preview: assets/GallowsManor.png
 ---
-
-<video src="https://github.com/user-attachments/assets/dfc7e95d-bc0a-4183-8fd3-205ab4aa7117" width = "500" />
-
+https://github.com/user-attachments/assets/fff5f8bc-0ba6-477e-8482-d55399152345
 
 Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
 
