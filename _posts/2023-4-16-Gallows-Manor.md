@@ -2,7 +2,7 @@
 layout: post
 title:  "Gallows Manor"
 summary: "Lead Programmer and Designer"
-preview: assets/GallowsManor.jpg
+preview: assets/GallowsManor.png
 ---
 
 https://github.com/user-attachments/assets/dfc7e95d-bc0a-4183-8fd3-205ab4aa7117
