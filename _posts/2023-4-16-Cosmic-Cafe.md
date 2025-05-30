@@ -1,22 +1,16 @@
 ---
 layout: post
 title:  "Unchained"
-summary: "AI Programmer"
-preview: assets/unchained-preview.jpg
+summary: "System Designer / Narrative Lead / Programmer"
+preview: assets/CosmicCafe.png
 ---
-
-![Picture 1](https://zachtier.github.io/ZacharyTieu.github.io/assets/unchained.jpg)
-
-Website: [https://www.unchained-game.com](https://www.unchained-game.com)
-Steam Link: [Unchained: Tale of Enra](https://store.steampowered.com/app/3723210/Unchained_Tale_of_Enra/)
+Itch.io: [Play it here!](https://zachtier.itch.io/cosmic-cafe)
 
 What it is:\
-A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently wrapping up post-prouction: the meat of the game is in place, fully developed and properly polished, with just a few tweaks needed before the grand release in July of 2025!
+A short overcooked inspired game for the USC 2023 MEGA Game Jam, working under the theme of Cosmic. Having unfortunately passed from the mortal coil, you're stuck in a fate worse than death: customer service, and your dark god of a customer is looking mighty hangry. Smash together stars, moons, and nebulae to cook up some truly cosmic treats before they turn their gaze towards more readily available foodstuffs...
 
-What I did:
-* As the team's AI programmer, lead the implementation of 10+ enemy types. This involved co-ordinating with the design team to review AI cycles and abilities for practicality and playability, before working with the team's other engineers to implement AI's that worked without our navigation system and character system.  The biggest challenge here was figuring out pathfinding in lieu of having a standard srpg grid, with the end result being enemies that use a mixture of navmesh navigation, raycasting, and general heuristics based on ally/enemy location to move and attack.
-* Implemented abilities for the above enemy type, ranging from AOE fireblasts to dashes. Primarily, this task involved co-ordinating with the lead engineer to figure out how in our combat system the abilities we desired could be efficiently implemented, and subsequently evaluating my own code on what'd the most practical way to implement said solutions into the game, taking into account potential changes to our game's UI and visual/audio feedback features and potential scalability.
-* Co-ordinated with a team of other designers and programmers to test, debug, and perfect the AI for our game. The standard: playtesting in a variety of scenes both on my own and alongside other developers in order to identify and tackle bugs and iterate through balance challenges.
+My Responsibilities:
+* Pitched and led the creative vision for Cosmic Cafe, a chaotic Overcooked-style kitchen sim with a Lovecraftian twist, blending fast-paced co-op gameplay with surreal cosmic horror themes. Established the game’s core mechanics and narrative direction, driving initial ideation into a fully playable prototype within the constraints of the jam.
+* Designed and implemented key systems in Unity with C#, including player movement, interactive stations, cooking logic, and task sequencing, ensuring fluid and responsive gameplay. Built the foundational simulation loop, balancing emergent chaos with clarity and fun to deliver a polished, playable experience on a short timeline.
+* Defined the game's thematic identity and tone, guiding art direction to reflect a stylized mix of kitchen absurdity and otherworldly horror. Wrote supporting narrative elements—including UI flavor text, environment prompts, and world lore—to expand the game's sense of place and deepen the cosmic theme.
 
-What I learnt:\
-Developing games in larger teams with a larger timeframe is a very different scale compared to tackling challenges in smaller teams. Communication is always key, but co-ordinating to avoid blockers, keeping track of where you stand in the development pipeline, and knowing where to find things and how to communicate problems and solutions are skills that can't be practiced without these big team projects.
