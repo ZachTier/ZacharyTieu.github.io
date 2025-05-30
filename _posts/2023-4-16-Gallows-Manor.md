@@ -10,12 +10,11 @@ https://github.com/user-attachments/assets/dfc7e95d-bc0a-4183-8fd3-205ab4aa7117
 Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
 
 What it is:\
-A turn-based tactical role-playing game with an emphasis on using dialogue and empathy to resolve challenges instead of direct combat. Currently wrapping up post-prouction: the meat of the game is in place, fully developed and properly polished, with just a few tweaks needed before the grand release in July of 2025!
+A horror puzzle game that mixes turn-based and real-time elements for a unique flavor. Escape a supernatural haunted manor with your dexterity and wits, evading enemies that might or might not decide they want to play by same rules that you do...
 
-What I did:
-* As the team's AI programmer, lead the implementation of 10+ enemy types. This involved co-ordinating with the design team to review AI cycles and abilities for practicality and playability, before working with the team's other engineers to implement AI's that worked without our navigation system and character system.  The biggest challenge here was figuring out pathfinding in lieu of having a standard srpg grid, with the end result being enemies that use a mixture of navmesh navigation, raycasting, and general heuristics based on ally/enemy location to move and attack.
-* Implemented abilities for the above enemy type, ranging from AOE fireblasts to dashes. Primarily, this task involved co-ordinating with the lead engineer to figure out how in our combat system the abilities we desired could be efficiently implemented, and subsequently evaluating my own code on what'd the most practical way to implement said solutions into the game, taking into account potential changes to our game's UI and visual/audio feedback features and potential scalability.
-* Co-ordinated with a team of other designers and programmers to test, debug, and perfect the AI for our game. The standard: playtesting in a variety of scenes both on my own and alongside other developers in order to identify and tackle bugs and iterate through balance challenges.
-
-What I learnt:\
-Developing games in larger teams with a larger timeframe is a very different scale compared to tackling challenges in smaller teams. Communication is always key, but co-ordinating to avoid blockers, keeping track of where you stand in the development pipeline, and knowing where to find things and how to communicate problems and solutions are skills that can't be practiced without these big team projects.
+My Responsibilities:
+* Pitched and led the creation of a hybrid real-time and turn-based horror puzzle game, developing the entire experience solo in Unity while coordinating a small interdisciplinary team for art and feedback. Drove all core systems programming, puzzle logic, and interaction design, bringing a tightly scoped, atmospheric experience to life from the ground up.
+* Crafted the game’s level and puzzle design to support strategic decision-making under tension, using environmental storytelling and notes left by a previous character to build narrative intrigue without dialogue. Also guided the game's visual and thematic direction, collaborating with artists to shape a cohesive tone and horror aesthetic.
+* Led iterative playtesting and usability testing, using player feedback to improve puzzle clarity, streamline interactions, and enhance onboarding. Managed production tasks including sprint planning, milestone tracking, and documentation, ensuring timely progress and team alignment within a tight academic schedule—while maintaining full responsibility for the game’s core development.
+  
+<img width="1134" alt="2025-05-29 17_04_40-Greenshot" src="https://github.com/user-attachments/assets/607fe06c-4cf0-4c90-88ee-67d74b6f32bd" />
