@@ -7,6 +7,7 @@ preview: assets/GallowsManor.png
 
 <video src="https://github.com/user-attachments/assets/dfc7e95d-bc0a-4183-8fd3-205ab4aa7117" width = "500" />
 
+
 Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
 
 What it is:\
