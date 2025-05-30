@@ -5,7 +5,7 @@ summary: "Lead Programmer and Designer"
 preview: assets/GallowsManor.jpg
 ---
 
-[Trailer](https://drive.google.com/file/d/1eozyopxpCxKRde7yH901UAv5zFraTnCk/view?usp=sharing)
+https://github.com/user-attachments/assets/dfc7e95d-bc0a-4183-8fd3-205ab4aa7117
 
 Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
 
