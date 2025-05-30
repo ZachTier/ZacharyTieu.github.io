@@ -4,8 +4,8 @@ title:  "Gallows Manor"
 summary: "Lead Programmer and Designer"
 preview: assets/GallowsManor.png
 ---
-<video id="trailer" autoplay muted loop>
-<source src="https://github.com/user-attachments/assets/fff5f8bc-0ba6-477e-8482-d55399152345" type="video/mp4" width = "500">
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://zachtier.github.io/ZacharyTieu.github.io/assets/gallowsManorTrailer1-VEED.mp4" type="video/mp4">
 </video>
 
 Itch.Io: [Download Here!](https://zachtier.itch.io/gallows-manor)
