@@ -9,7 +9,7 @@ Outside of video games, tabletop role-playing games and manga/webcomics are my f
 
 Whether you want to talk shop or just wanna have a chat about the hobbies we all engage in (please do I need more friends who play Omega Strikers), feel free to hit me up on Linkedin or via email!
 
-  Favorite Game Genre: Turn-Based Strategy! They're a great mix, at least in my own opinion: the transition to turns instead of real-time incentivizes having fewer, more interesting units compared to RTS, very naturally leading to the addtion of the customization and teambuilding that the RPG genre brings.\
+  Favorite Game Genre: Turn-Based Strategy! They're a great mix, at least in my own opinion: the transition to turns instead of real-time incentivizes having fewer, more interesting units compared to RTS, very naturally leading to the addtion of the customization and teambuilding that the RPG genre brings.
   
   Favorite Game(s): 
 * Single-player Game: Harebrained Studio’s Shadowrun. A great introduction to the tabletop setting and the alternative options various builds enable make it a shining example of a CRPG, where builds serve more than gameplay purposes and instead are storytelling mechanics in of themselves. Alongside a well-paced, intriguing story and a host of memorable companions (at least, starting with the second and third game in the series), it's my absolute #1 pick for games I'd recommend to others. Things only get better with the mods, shout out to Cirion's additions to the game!
