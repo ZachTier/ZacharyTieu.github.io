@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unchained"
+title:  "Cosmic Cafe"
 summary: "System Designer / Narrative Lead / Programmer"
 preview: assets/CosmicCafe.png
 ---
